@@ -7,3 +7,4 @@ Credit:
 
 Some of the code I used for label encoding, etc, I took directly from watching this user's youtube videos: https://www.youtube.com/watch?v=YuzLkF7Ymf4
 
+I also took directly from citibikekmeans that we did in class.
